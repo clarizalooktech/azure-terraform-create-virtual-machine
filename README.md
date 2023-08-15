@@ -12,3 +12,8 @@ Content for creating an Azure resource group using infrastructure as code - Terr
 
 ### 4. Terraform destroy
 > terraform apply -destroy
+
+## Screenshots
+> https://github.com/clarizalooktech/azure-terraform-create-virtual-machine/blob/main/terraform-azure-vm-portal.JPG
+
+> https://github.com/clarizalooktech/azure-terraform-create-virtual-machine/blob/main/terraform-azure-vm.JPG
