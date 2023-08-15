@@ -1,5 +1,5 @@
 # azure-terraform-create-resource-group
-Content for creating an Azure resource group using infrastructure as code - Terraform
+Repo for creating an Azure VM and resource group using infrastructure as code - Terraform HCL language
 
 ### 1. Initialize Terraform 
 > terraform init -upgrade
